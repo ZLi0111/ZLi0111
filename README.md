@@ -1,4 +1,4 @@
-## Hi there, I'm [zhengrong][website] 👋
+### Hi there, I'm [zhengrong][website] 👋
 
 
 ## I'm a Student in USC!!
