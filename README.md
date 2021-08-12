@@ -1,6 +1,5 @@
 ## Hi there, I'm [zhengrong][website] 👋
 
-<br />
 
 ## I'm a Student in USC!!
 
