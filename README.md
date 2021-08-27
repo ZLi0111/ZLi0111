@@ -5,10 +5,10 @@
 
 - 👀 I’m interested in Java, Go, React
 - 🌱 I’m currently learning IOS App developing 
-- 👯 I’m looking to a job 🤣
+- 👯 I’m currently looking for a SDE job 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 My email is zhengrongli1003@gmail.com
-- ⚡ Fun fact: I love video game and Gym
+- ⚡ Fun fact: I love the movie, music and Gym
 
 ### Connect with me:
 
